@@ -6,3 +6,38 @@
 .text-secondary {
     color: #0274d0;
 }
+
+/* Buttons */
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 30px;
+    color: #ffffff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #28a745;
+}
+
+.btn-secondary {
+    color: #ffffff;
+    background-color: #0274d0;
+}
+
+.btn-dark {
+    background-color: #333;
+    color: #fff;
+}
+
+.btn-light {
+    background-color: #f4f4f4;
+    color: #333;
+}
