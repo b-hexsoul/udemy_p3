@@ -2,4 +2,4 @@
 
 ## Overview: Website using Flexbox. 
 
-### Detailed Learnings
+### Learning Highlights (for self review):
