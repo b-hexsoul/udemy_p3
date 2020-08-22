@@ -81,7 +81,7 @@ img {
 
 /* Header */
 .hero {
-    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.9)),  url("/resources/home/showcase.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.9)),  url("../resources/home/showcase.jpg") no-repeat center center/cover;
     height: 100vh;
     position: relative;
     color: #fff;
@@ -108,7 +108,7 @@ img {
 }
 
 .hero.blog {
-    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.9)), url('/resources/home/blog.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.9)), url('resources/home/blog.jpg') no-repeat center center/cover;
     height: 30vh;
 }
 
