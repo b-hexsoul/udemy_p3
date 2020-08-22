@@ -120,3 +120,13 @@ img {
     border-radius: 50%;
     margin-bottom: 15px;
 }
+
+/* Cases */
+
+.cases img {
+    transition: all 0.25s;
+}
+
+.cases img:hover {
+    opacity: 0.7;
+}
