@@ -1,4 +1,4 @@
-# 2nd project in Traversy Modern HTML & CSS Course
+# 2nd project in HTML & CSS Course
 
 ## Overview: Website using Flexbox. 
 
