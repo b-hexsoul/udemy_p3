@@ -7,11 +7,11 @@
 #### Flexbox Properties for Container:
 - Flex-direction: row/column
 - Flex-wrap: wrap/no-wrap, wrap-reverse
-- Justify-content: defines alignment along the <b>main axis<b>
+- Justify-content: defines alignment along the **main axis**
   - Can be flex-start, flex-end, start, end, left, right, center, space-around, space-between, space-evenly
-- Align-items: defines alignment along the <b>cross axis<b>
+- Align-items: defines alignment along the **cross axis**
   - Can be flex-start, flex-end, center, stretch, baseline
-- Align-content: aligns a flex container's lines within when there is extra space in the <b>cross axis<b>
+- Align-content: aligns a flex container's lines within when there is extra space in the **cross axis**
   - Can be flex-start, flex-end, center, stretch, space-evenly, space-around, space-between
 
 #### Flexbox Properties for Children:
