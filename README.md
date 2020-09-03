@@ -1,7 +1,8 @@
 # 2nd project in HTML & CSS Course:
   https://b-hexsoul.github.io/udemy_p3/
 
-## Overview: Website using Flexbox. 
+## Overview: 
+ Website utilizing CSS Flexbox. 
 
 ### Learning Highlights (for self review):
 
